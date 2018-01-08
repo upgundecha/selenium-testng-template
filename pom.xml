@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>selenium-testng-template</artifactId>
+    <artifactId>git remote add origin https://github.com/upgundecha/selenium-testng-template.git</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
