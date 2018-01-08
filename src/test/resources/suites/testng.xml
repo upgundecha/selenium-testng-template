@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Example Suite" verbose="1" >
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+    </listeners>
+    <test name="Regression1">
+        <classes>
+            <class name="com.example.SampleTest"/>
+        </classes>
+    </test>
+</suite>
